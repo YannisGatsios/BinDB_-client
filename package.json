@@ -1,0 +1,15 @@
+{
+  "name": "bindb",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "BinDB.js",
+  "scripts": {
+    "test": "node BinDB.js"
+  },
+  "keywords": [
+    "database"
+  ],
+  "author": "",
+  "license": "ISC"
+}
